@@ -7,7 +7,7 @@
 ## :wave: Hello there!
 Currently. I'm an Electronic Engineering student, well-versed in programming and electronic circuit design.
 
-Current Objective: Studying Machine Learning + NLP, trying to graduated.
+Current Objective: Studying Machine Learning + NLP, trying to graduate.
 
 ## :spiral_notepad: About me:
 - :notes: Love listening to music (prefer chill genres) 
