@@ -1,6 +1,3 @@
-
-<p align="center" style="text-align:center"> <b> NOTICE: THIS README.MD IS STILL W.I.P </b></p>
-
 ---
 
 <p align="center" style="text-align:center"> <b><i> "I still know kung fu." </b></i></p>
@@ -9,6 +6,8 @@
 
 ## :wave: Hello there!
 Currently. I'm an Electronic Engineering student, well-versed in programming and electronic circuit design.
+
+Current Objective: Studying Machine Learning + NLP, trying to graduated.
 
 ## :spiral_notepad: About me:
 - :notes: Love listening to music (prefer chill genres) 
