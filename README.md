@@ -16,6 +16,6 @@ Current Objective: Studying Neural Network, trying to graduate
 - :star2: <i> Didn't have a dime but I always had a vision </i>
 
 ## :link: Links
-[**Youtube**](https://www.youtube.com/user/mapmaker42) **|** [**Twitter**](https://twitter.com/FaultyTwo) **|** [**Personal Website**](https://faultytwo.wixsite.com/home) **|** [**Steam**](https://steamcommunity.com/id/faultytwo/)
+[**Youtube**](https://www.youtube.com/user/mapmaker42) **|** [**Personal Website**](https://faultytwo.wixsite.com/home) **|** [**Steam**](https://steamcommunity.com/id/faultytwo/)
 
 ---
