@@ -5,9 +5,9 @@
 ---
 
 ## :wave: Hello there!
-Currently. I'm an Electronic Engineering student, well-versed in programming and electronic circuit design.
+Currently. I'm an Electronic Engineering student, well-versed in programming and electronic circuit design. A bit good at machine learning fields.
 
-Current Objective: Studying Neural Network, trying to graduate
+Current Objective: Studying Deep Learning fields
 
 ## :spiral_notepad: About me:
 - :notes: Love listening to music (prefer chill genres) 
