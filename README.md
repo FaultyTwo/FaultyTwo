@@ -36,7 +36,7 @@ So much excitement!
 - :video_game: Like video games. But don't play them religiously as I used to.
 - :open_book: Reading books.. should be everyone favorite activity.
 - :fire: "I learn through suffering."
-- :smoking: <i> "Life is like a game of poker. The rule is easy, but it's all gambler." </i>
+- :smoking: <i> "Life is like a game of poker. The rule is easy, but it's all luck and gamble." </i>
 
 ## :link: Links
 [**Youtube**](https://www.youtube.com/user/mapmaker42) **|** [**Personal Website**](https://faultytwo.wixsite.com/home) **|** [**Steam**](https://steamcommunity.com/id/faultytwo/)
