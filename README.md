@@ -11,23 +11,23 @@ But I can't stop now, <b>can I?</b>
 Primary Objective:
 - [x] Wiping the tear out of my face. Get back on my feet.
 - [x] Accept that you won't get a Software Engineer gig.
-- [] Complete the DevOps course.
-- [] Get back to the world of Machine Learning. And finally heading in deep into its fray, non-stop.
+- [ ] Complete the DevOps course.
+- [ ] Get back to the world of Machine Learning. And finally heading in deep into its fray, non-stop.
 
 Secondary Objective: 
-- [] Looking for open source projects that I can contribute to.
-- [] Beat the fear of public speaking.
-- [] Face the actuality and the horror of JavaScript (plus, Node.JS to keep my sanity intact).
-- [] Learn how to code in C# and Java properly again.
-- [] Build an ASP.NET app using C#.
-- [] Java.. eh, suck a lemon until it requires I guess.
+- [ ] Looking for open source projects that I can contribute to.
+- [ ] Beat the fear of public speaking.
+- [ ] Face the actuality and the horror of JavaScript (plus, Node.JS to keep my sanity intact).
+- [ ] Learn how to code in C# and Java properly again.
+- [ ] Build an ASP.NET app using C#.
+- [ ] Java.. eh, suck a lemon until it requires I guess.
 
 Tertiary Objective:
-- [] Get a job in a good company.. well, we will see about that.
-- [] Be happy for once.
+- [ ] Get a job in a good company.. well, we will see about that.
+- [ ] Be happy for once.
 
 Last Objective:
-- [] Die (happily).
+- [ ] Die (happily).
 
 Well. Let's see if I will strive or starve to death before I get there or not.<br>
 So much excitement!
