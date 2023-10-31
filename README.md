@@ -9,8 +9,8 @@ Currently. I'm an Electronic Engineering graduate, wasted 5 months (May-Sep) loo
 But I can't stop now, <b>can I?</b>
 
 Primary Objective:
-- [] Get a grip. Of anything, and everything.
-- [] Fix the brain to go vroooooooooom again.
+- [ ] Get a grip. Of anything, and everything.
+- [ ] Fix the brain to go vroooooooooom again.
 
 ## :spiral_notepad: About me:
 - :notes: Love listening to music (prefer chill genres, Vaporwave enthusiast) 
