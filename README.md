@@ -5,15 +5,20 @@
 ---
 
 ## :wave: Hi there.
-Currently. I'm an Electronic Engineering graduate, wasted 5 months (May-Sep) looking for a job, beaten by the <b><i>harsh reality</i></b> of tech world.<br>
-But I can't stop now, <b>can I?</b>
+Currently. I'm a junior software developer at a company. And... that's it. Nothing interesting has happened to me so far.<br>
+Although. I'm looking to expand my knowledge's border.
+
+Shall I dip even deeper than before? The answer should be obvious.
 
 Primary Objective:
-- [x] Get a grip. Of anything, and everything.
-- [ ] Fix the brain to go vroooooooooom again.
+- [ ] Cybersecurity
+- [ ] Go .. it fried my brain when it comes to array declaration
+- [ ] Rust (looking forward to)
+- [ ] Artificial Intelligence (key papers)
+- [ ] Probably more I couldn't put my hands on for now
 
 ## :spiral_notepad: About me:
-- :notes: Love listening to music (prefer chill genres, Vaporwave enthusiast) 
+- :notes: Love listening to music (prefer chill genres, Vaporwave fanatic) 
 - :video_game: Like video games. But don't play them religiously as I used to.
 - :open_book: Reading books.. should be everyone favorite activity.
 - :fire: "I learn through suffering."
