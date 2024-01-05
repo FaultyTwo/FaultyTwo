@@ -10,11 +10,12 @@ Although. I'm looking to expand my knowledge's border.
 
 Shall I dip even deeper than before? The answer should be obvious.
 
-Primary Objective:
+## :notebook_with_decorative_cover: Primary Objectives
 - [ ] Cybersecurity
-- [ ] Go .. it fried my brain when it comes to array declaration
+- [ ] Go .. it fried my brain when it comes to array declarations because its syntax is weird to say the least
 - [ ] Rust (looking forward to)
 - [ ] Artificial Intelligence (key papers)
+- [ ] Finance .. gotta claim back what the education system stole
 - [ ] Probably more I couldn't put my hands on for now
 
 ## :spiral_notepad: About me:
