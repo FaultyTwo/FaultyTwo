@@ -11,12 +11,7 @@ Although. I'm looking to expand my knowledge's border.
 Shall I dip even deeper than before? The answer should be obvious.
 
 ## :notebook_with_decorative_cover: Primary Objectives
-- [ ] Cybersecurity
-- [ ] Go .. it fried my brain when it comes to array declarations because its syntax is weird to say the least
-- [ ] Rust (looking forward to)
-- [ ] Artificial Intelligence (key papers)
-- [ ] Finance .. gotta claim back what the education system stole
-- [ ] Probably more I couldn't put my hands on for now
+- [ ] actually being based
 
 ## :spiral_notepad: About me:
 - :notes: Love listening to music (prefer chill genres, Vaporwave fanatic) 
