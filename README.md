@@ -11,7 +11,7 @@ Although. I'm looking to expand my knowledge's border.
 Shall I dip even deeper than before? The answer should be obvious.
 
 ## :notebook_with_decorative_cover: Primary Objectives
-- [ ] actually being based
+- [ ] Go make awesome things again
 
 ## :spiral_notepad: About me:
 - :notes: Love listening to music (prefer chill genres, Vaporwave fanatic) 
