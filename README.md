@@ -21,6 +21,6 @@ Shall I dip even deeper than before? The answer should be obvious.
 - :bookmark_tabs: For now. I will fill you in later..
 
 ## :link: Links
-[**Youtube**](https://www.youtube.com/user/mapmaker42) **|** [**Personal Website**](https://faultytwo.wixsite.com/home) **|** [**Steam**](https://steamcommunity.com/id/faultytwo/)
+[**Youtube**](https://www.youtube.com/user/mapmaker42) **|** [**Steam**](https://steamcommunity.com/id/faultytwo/)
 
 ---
