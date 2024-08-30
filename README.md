@@ -21,7 +21,6 @@ Be like water, my friend. High plasticity, and seep through deeper domains.
 - :fire: "I learn through suffering."
 - :bookmark_tabs: For now. I will fill you in later..
 
-## :link: Links
-[**Youtube**](https://www.youtube.com/user/mapmaker42) **|** [**Steam**](https://steamcommunity.com/id/faultytwo/)
+For more quick ref, [**click here**](https://faultytwo.github.io/)
 
 ---
