@@ -5,8 +5,8 @@
 ---
 
 ## :wave: Hi there.
-Currently. I'm a software developer for a company. And... that's it. Nothing interesting has happened to me so far.<br>
-Although. I'm looking to expand my knowledge's border.
+Currently. I'm a software developer for a company. And ... that's it. Nothing interesting has happened to me so far.<br>
+Although. I'm always looking to expand my borders.
 
 Shall I dip even deeper than before? The answer should be obvious.
 
