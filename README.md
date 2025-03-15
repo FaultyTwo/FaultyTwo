@@ -18,6 +18,4 @@ I'm still at negative. I want to go back to <b>zero.</b>
 - :books: Reading. Books are great. But make sure to filter out bad ones.
 - :cloud_with_lightning_and_rain: Anxious about my performance. It's hard to be good at something.
 
-For more quick ref, [**click here**](https://faultytwo.github.io/)
-
 ---
