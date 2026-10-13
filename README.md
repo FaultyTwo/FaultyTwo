@@ -4,10 +4,10 @@
 
 ---
 
-## :wave: Hi there/
-You can call me **"Win"**. I'm a mid-level software developer for a company. I'm always looking forward to expand my knowledge area and mess with old hardware as much as possible ...
+## :wave: Hi, hi
+You can call me **"Win"**. I'm a mid-level software developer for a company. I'm always looking forward to expand my knowledge area and mess with old hardware as much as possible.
 
-Normally. I would tell everything you need to know here. But I have a "proper" website now. So ... Get on to it instead.
+Normally. I would tell everything you need to know here. But I have a "proper" website now. So, get onto it instead.
 
 ## :link: Links
 - [Personal website](https://faultytwo.neocities.org/)
